@@ -1,7 +1,7 @@
 # Hi! Welcome to my page
-Hello guys 🌈
-Welcome to my page 😃
-I will create different cool projects here
+Hello guys 🌈 <br />
+Welcome to my page 😃 <br/>
+I will create different cool projects here! <br/>
 I am still a beginner and I wanted to improve more
 
 # My skills
